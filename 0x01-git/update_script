@@ -1,1 +1,5 @@
 Already up to date.
+Merge made by the 'recursive' strategy.
+ 0x01-git/.gitignore | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 0x01-git/.gitignore
